@@ -1,10 +1,11 @@
 LeetCode
 ========
 
-### LeetCode Algorithm
+### LeetCode 算法
 
 
-| # | Title | Solution | Difficulty |
+| # | 标题 | 解决方案 | 难度 |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/ ) | [C++](https://github.com/gengyu-mamba/leetcode/blob/master/algorithms/cpp/Two%20Sum/Two%20Sum.cpp )|Easy|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/ ) | [C++](https://github.com/gengyu-mamba/leetcode/blob/master/algorithms/cpp/Reverse%20Integer/Reverse%20Integer.cpp )|Easy|
+|1|[两数之和](https://leetcode.com/problems/two-sum/ ) | [C++]|Easy|
+|7|[整数反转](https://leetcode.com/problems/reverse-integer/ ) | [C++]|Easy|
+|888|[公平的糖果交换](https://leetcode.com/problems/reverse-integer/ ) | [C++]|Easy|
